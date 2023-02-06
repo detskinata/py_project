@@ -1,7 +1,7 @@
-def sum():
+def sum(b, c):
     a = b + c
     return a
 
-def subtraction():
+def subtraction(b, c):
     a = b - c
     return a
